@@ -28,17 +28,21 @@ x = np.array([
 ])
 
 y = np.array([[0], [1], [1], [0]])
+````
+
+---
+
 ## 🎯 Purpose
 
-The main goal of this project is to understand how neural networks work at a fundamental level by implementing one completely from scratch using NumPy.  
+The main goal of this project is to understand how neural networks work at a fundamental level by implementing one completely from scratch using NumPy.
 Instead of relying on high-level libraries like TensorFlow or PyTorch, this project focuses on the core concepts behind neural networks, such as:
 
-- Forward propagation  
-- Loss calculation  
-- Backpropagation  
-- Gradient descent optimization  
-- Weight and bias updates  
-- Matrix dimension handling  
+* Forward propagation
+* Loss calculation
+* Backpropagation
+* Gradient descent optimization
+* Weight and bias updates
+* Matrix dimension handling
 
 By solving the XOR classification problem, this project demonstrates how neural networks can learn non-linear patterns, which cannot be solved using simple linear models. It is ideal for beginners who want a strong mathematical and conceptual foundation in machine learning.
 
@@ -47,27 +51,49 @@ By solving the XOR classification problem, this project demonstrates how neural 
 ## ▶️ How to Run
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/your-username/neural-network-from-scratch.git
+```
 
 2. Navigate to the project directory:
+
 ```bash
 cd neural-network-from-scratch
+```
 
 3. Install the required dependency:
+
 ```bash
 pip install numpy
-
+```
 
 4. Run the program:
+
 ```bash
 python neural_network.py
+```
 
+5. You should see output similar to:
 
-5. You should see the output similar to:
-```csharp
+```text
 Predicting values:
 [0 0] -> 0
 [0 1] -> 1
 [1 0] -> 1
 [1 1] -> 0
+```
+
+This confirms that the neural network has successfully learned the XOR classification.
+
+---
+
+## 🧑‍💻 Author
+
+Built to understand neural networks from first principles using NumPy.
+
+```
+
+
+This is a solid first ML repository README.
+```
