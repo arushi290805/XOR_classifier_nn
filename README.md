@@ -53,13 +53,13 @@ By solving the XOR classification problem, this project demonstrates how neural 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/neural-network-from-scratch.git
+git clone https://github.com/arushi290805/XOR_classifier_nn.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd neural-network-from-scratch
+cd neural_network
 ```
 
 3. Install the required dependency:
@@ -71,7 +71,7 @@ pip install numpy
 4. Run the program:
 
 ```bash
-python neural_network.py
+python neural_network.ipynb
 ```
 
 5. You should see output similar to:
@@ -93,7 +93,6 @@ This confirms that the neural network has successfully learned the XOR classific
 Built to understand neural networks from first principles using NumPy.
 
 ```
-
-
-This is a solid first ML repository README.
+Arushi Khare
+Student at NIT Rourkela
 ```
