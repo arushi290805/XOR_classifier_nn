@@ -96,3 +96,6 @@ Built to understand neural networks from first principles using NumPy.
 Arushi Khare
 Student at NIT Rourkela
 ```
+---
+## ⭐ Star
+If you like this repo, give it a star.
