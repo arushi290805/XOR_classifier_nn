@@ -99,3 +99,7 @@ Student at NIT Rourkela
 ---
 ## ⭐ Star
 If you like this repo, give it a star.
+
+--
+## Some other projects:
+Naive bayes from Scratch: [link](https://github.com/arushi290805/naive_bayes_from_scratch)
